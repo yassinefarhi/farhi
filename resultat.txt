@@ -1,0 +1,3 @@
+<h1>text externe </h1>
+depuis le fichier resultat.txt
+de la part de TDI2A
